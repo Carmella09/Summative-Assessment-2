@@ -75,7 +75,7 @@
           int main()
           {
               double b;
-              cout << "\nTable from 1-10\n\n";
+              cout << "\nPower from 1-10\n\n";
               cout << "Student's name: ";
               string name;
               cin >> name;
